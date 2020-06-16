@@ -1,4 +1,7 @@
 # hello-world
 try to go the world of gits
-/n啊这
-/n我只能说 没想到的
+
+啊这
+我只能说 没想到的
+
+牛牛
